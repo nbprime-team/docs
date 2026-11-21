@@ -114,3 +114,6 @@ make -C examples/suika deploy
 ## 3. 下一步
 
 你成功了吗？好！现在你具有了开发二进制程序的全部条件，转到 [`developing`](https://github.com/nbprime-team/docs/developing.md) 去，那里你将拥有自己的二进制程序。
+
+没有计算器在手边？[`emulator.md`](emulator.md) 讲怎么在 PC 上跑同一份真固件，
+用模拟器先把它验证一遍再上传。
